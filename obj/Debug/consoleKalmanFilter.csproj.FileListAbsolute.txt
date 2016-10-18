@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\consoleKalmanFilter\consoleKalmanFilter\bin\Debug\consoleKalmanFilter.exe.config
+c:\users\user\documents\visual studio 2015\Projects\consoleKalmanFilter\consoleKalmanFilter\obj\Debug\consoleKalmanFilter.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\consoleKalmanFilter\consoleKalmanFilter\bin\Debug\consoleKalmanFilter.exe
+c:\users\user\documents\visual studio 2015\Projects\consoleKalmanFilter\consoleKalmanFilter\bin\Debug\consoleKalmanFilter.pdb
+c:\users\user\documents\visual studio 2015\Projects\consoleKalmanFilter\consoleKalmanFilter\obj\Debug\consoleKalmanFilter.exe
+c:\users\user\documents\visual studio 2015\Projects\consoleKalmanFilter\consoleKalmanFilter\obj\Debug\consoleKalmanFilter.pdb
